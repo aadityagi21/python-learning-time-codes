@@ -48,3 +48,9 @@ if a.lower() in l:
     print("Vowel")
 else:
     print("Consonant")
+    
+    
+l=['a','b','c']
+print(" ".join(l))
+
+print(l*2)
